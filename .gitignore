@@ -1,0 +1,3 @@
+# Other common ignores
+.DS_Store
+*.pyc
